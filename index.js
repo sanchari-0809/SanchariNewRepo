@@ -1,4 +1,4 @@
-cconst data = {
+const data = {
   name: "SanchariNewRepo",
   description: "This is my first Node.js project!"
 };
