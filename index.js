@@ -1,5 +1,7 @@
-const data = require('./index.json');
+cconst data = {
+  name: "SanchariNewRepo",
+  description: "This is my first Node.js project!"
+};
 
-console.log("Data from JSON file:");
+console.log("Welcome to my project!");
 console.log(data);
-
